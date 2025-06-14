@@ -5,7 +5,7 @@ A data analytics project to detect games before they go viral by tracking multip
 ## Project Overview
 This system monitors Twitch viewership, Reddit discussions, Steam player counts, and Google Trends to identify games with viral potential 7-14 days before mainstream adoption.
 
-## Current Progress (as of June 9, 2025)
+## Current Progress
 
 ### ✅ Completed:
 1. **Project Structure** - Set up with src/collectors, data/, config/, etc.
